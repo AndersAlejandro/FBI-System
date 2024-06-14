@@ -1,4 +1,4 @@
-exports.results = [
+export const results = [
   {
     email: 'who@fbi.com',
     password: 'me',
